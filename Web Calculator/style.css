@@ -77,6 +77,7 @@
   input#clear:hover{
       background-color: orange;
   }
+  /* this is comment */
   input#equal{
     width: 275px;
     margin: 10px 0 10px 0;
